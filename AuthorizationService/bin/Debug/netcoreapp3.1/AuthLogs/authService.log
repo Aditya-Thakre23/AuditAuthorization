@@ -1,0 +1,6 @@
+INFO  12:54:01 Application started. Press Ctrl+C to shut down.
+INFO  12:54:01 Hosting environment: Development
+INFO  12:54:01 Content root path: E:\Audit Management\POD5_AuditManagement_MFPE\AuthorizationService
+INFO  12:54:01  Http GET Request From: TokenController
+INFO  12:54:01  GetJsonWebToken method of AuthService Called 
+INFO  12:54:01  GenerateJWT method of AuthRepo Called 
